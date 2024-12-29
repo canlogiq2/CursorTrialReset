@@ -86,10 +86,10 @@
             githubLbl.Font = new Font("Segoe UI", 8.25F);
             githubLbl.Location = new Point(68, 134);
             githubLbl.Name = "githubLbl";
-            githubLbl.Size = new Size(213, 13);
+            githubLbl.Size = new Size(246, 13);
             githubLbl.TabIndex = 5;
             githubLbl.TabStop = true;
-            githubLbl.Text = "https://github.com/ultrasev/cursor-reset";
+            githubLbl.Text = "https://github.com/canlogiq2/CursorTrialReset";
             githubLbl.LinkClicked += githubLbl_LinkClicked;
             // 
             // logText
