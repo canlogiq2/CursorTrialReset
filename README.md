@@ -2,10 +2,14 @@
 
 A utility tool that helps manage Cursor editor's device identification system by resetting stored device IDs. This can help users to resolve issues related to account restrictions when switching between accounts or during trial periods.
 
+# Note
+This repo is converted to c# version
+
 # How It Works
 
 The tool generates a new device identifier, which allows Cursor to recognize your system as a new device.
 
+![Windows App](https://i.imgur.com/TXxF8uC.png)
 
 # Key Features
 
