@@ -70,7 +70,7 @@
             backupsLbl.Text = "%APPDATA%\\Cursor\\User\\globalStorage\\storage.json";
             backupsLbl.LinkClicked += backupsLbl_LinkClicked;
             // 
-            // label2
+            // label2 
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 8.25F);
